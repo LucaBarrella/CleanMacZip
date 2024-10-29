@@ -19,28 +19,29 @@ The script is compatible with Bash 3.x or later versions.
    ```bash
    git clone https://github.com/yourusername/CleanMacZip.git
    cd CleanMacZip
+   ```
 
-	2.	Make the script executable:
+2. Make the script executable:
 
+```bash
 chmod +x RemoveMacOsJunk.sh
+```
+3. Run the script:
 
-
-	3.	Run the script:
-
+```bash
 ./RemoveMacOsJunk.sh
-
-
-	4.	Follow the interactive instructions to:
-	•	Choose the language (Italian or English).
-	•	Enter the path of the folder to compress.
-	•	Decide whether to save the ZIP file in the same directory as the original folder or specify a different directory.
+```
+4. Follow the interactive instructions to:
+- Choose the language (Italian or English).
+- Enter the path of the folder to compress.
+- Decide whether to save the ZIP file in the same directory as the original folder or specify a different directory.
 
 Example Usage
 
 Suppose you have a folder called Project on your desktop. The script will prompt for the folder path, your preferred language, and the save location for the ZIP file.
 
 Example input:
-
+```bash
 Choose language:
 1) Italian
 2) English
@@ -51,6 +52,7 @@ Do you want to save the zip file in the same directory as the folder? (y/n)
 y
 Creating zip file without unnecessary directory structure...
 Clean zip created successfully: /Users/yourusername/Desktop/Project.zip
+```
 
 Modifications and Contributions
 
