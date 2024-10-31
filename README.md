@@ -61,5 +61,3 @@ Contributions that improve the script or extend its functionality are welcome. F
 License
 
 This project is distributed under the MIT license. See the LICENSE file for more details.
-
-Let me know if there are further adjustments you'd like!
