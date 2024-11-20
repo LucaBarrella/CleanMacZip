@@ -17,7 +17,7 @@ The script is compatible with Bash 3.x or later versions.
 1. **Clone the repository** or create a file named `RemoveMacOsJunk.sh` and paste the script.
 
 ```bash
-git clone https://github.com/yourusername/CleanMacZip.git
+git clone https://github.com/LucaBarrella/CleanMacZip.git
 cd CleanMacZip
 ```
 
