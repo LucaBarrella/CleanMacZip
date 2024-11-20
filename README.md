@@ -24,12 +24,12 @@ cd CleanMacZip
 2. Make the script executable:
 
 ```bash
-chmod +x RemoveMacOsJunk.sh
+chmod +x CleanMacZip.sh
 ```
 3. Run the script:
 
 ```bash
-./RemoveMacOsJunk.sh
+./CleanMacZip.sh
 ```
 4. Follow the interactive instructions to:
 - Choose the language (Italian or English).
